@@ -1,0 +1,26 @@
+body {
+  font-family: verdana;
+  background-color: orange;
+}
+table {
+  border-collapse: collapse;
+}
+table, td, th {
+  border: 1px solid black;
+}
+th {
+  height: 50px;
+}
+.table1 {
+  background-color: grey;
+}
+.table2 {
+  background-color: blueviolet;
+}
+.table3 {
+  background-color: palevioletred;
+}
+h2 {
+  background-color: black;
+  color: white;
+}
